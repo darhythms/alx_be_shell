@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "betty"
+echo "The name of the current user is $whoami"
